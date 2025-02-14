@@ -41,3 +41,7 @@ Enter the year (and month if using the second script).
 View the generated calendar in the console.
 
 This project is a great way to demonstrate your understanding of Python’s built-in modules, user input handling, and basic console applications on GitHub. 🎯
+
+**📜 License**
+
+This project is open-source under the MIT License. Feel free to use and modify it! 🚀
