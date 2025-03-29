@@ -33,7 +33,7 @@ then
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/Mazid2003/Mind-reader-using-javascript.git
+git clone https://github.com/Mazid2003/calendar-using-python.git
 
 2️⃣  Think of a number and enjoy the mind-reading magic! 🎩✨
 
