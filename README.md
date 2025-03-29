@@ -29,9 +29,15 @@ It then prints the calendar for the specified month using calendar.month(year, m
 **🚀 How to Run**
 
 Install Python (if not already installed).
+then
 
-Copy and paste the code into a Python file (calendar_generator.py).
+1️⃣ Clone the repository:
 
+git clone https://github.com/Mazid2003/Mind-reader-using-javascript.git
+
+2️⃣ Open the index.html file in a browser.
+
+3️⃣ Think of a number and enjoy the mind-reading magic! 🎩✨
 Run the script in the terminal/command prompt:
 
 python calendar_generator.py
