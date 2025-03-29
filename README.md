@@ -35,9 +35,8 @@ then
 
 git clone https://github.com/Mazid2003/Mind-reader-using-javascript.git
 
-2️⃣ Open the index.html file in a browser.
+2️⃣  Think of a number and enjoy the mind-reading magic! 🎩✨
 
-3️⃣ Think of a number and enjoy the mind-reading magic! 🎩✨
 Run the script in the terminal/command prompt:
 
 python calendar_generator.py
