@@ -35,9 +35,9 @@ then
 
 git clone https://github.com/Mazid2003/calendar-using-python.git
 
-2️⃣  Think of a number and enjoy the mind-reading magic! 🎩✨
+2️⃣  Run the script in the 
 
-Run the script in the terminal/command prompt:
+terminal/command prompt:
 
 python calendar_generator.py
 
